@@ -6,13 +6,15 @@
 
 - 🔭 I’m currently working on **CTF and LABS** 
 
-- 👯 I’m looking to collaborate on **Any projects based on language listed**
+- 👯 Willing to collaborate on **Any projects based on language listed**
 
 - 💬 Ask me about **C++, PHP and else in my reach.**
 
 - 📫 How to reach me **[SimpleX](https://smp18.simplex.im/a#f24uyp6hIDPo3cxunpZsVfGSx3zkYZX3wNlxJqZPKu4)**
 
 - 🎢 Hear me out **Regex can be fun .**
+
+- 🗑️ Have more **Deleted Projects** than the one that succeed.
 
 
 ###
