@@ -19,7 +19,7 @@
 
 ###
 
-[![Github Readme Codewars](https://codewars-stats-ignacio-cuadra.vercel.app/?username=PicasoTheDealer&theme=dark)](https://github.com/KirubelYonas/github-readme-codewars)            
+<img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=PicasoTheDealer&theme=hacker" alt = "PicasoTheDealer"/>
 
 ###
 
