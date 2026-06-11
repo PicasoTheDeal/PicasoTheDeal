@@ -4,7 +4,7 @@
 
 <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V1OGh0M2JzcjlkaTY1ZmxudHJzZ2F5YjM4bjZlaXVueXAxcjc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif"  />
 
-- 🔭 I’m currently working on **CTF and LABS** 
+- 🔭 I’m currently working on **Security and Analysis Software** 
 
 - 👯 Willing to collaborate on **Any projects based on language listed**
 
