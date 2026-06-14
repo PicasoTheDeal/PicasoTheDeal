@@ -19,6 +19,8 @@
 - 🖥️  See my portfolio at [Isitme](http://isitreallyme.pages.dev)
 
 
+![Isometric Calendar](metrics.plugin.isocalendar.svg)
+
 ###
 
 <img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=PicasoTheDealer&theme=hacker" alt = "PicasoTheDealer"/>
