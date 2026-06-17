@@ -16,8 +16,6 @@
 
 - 🗑️ Have more **Deleted Projects** than the one that succeed.
 
-- 🖥️  See my portfolio at **[Isitme](http://isitreallyme.pages.dev)**
-
 
 ![Isometric Calendar](metrics.plugin.isocalendar.svg)
 
