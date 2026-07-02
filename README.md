@@ -2,18 +2,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubel&label=Profile%20views&color=0e75b6&style=flat" alt="kirubel" /> </p>
 
-<img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V1OGh0M2JzcjlkaTY1ZmxudHJzZ2F5YjM4bjZlaXVueXAxcjc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif"  />
+<div>
 
-- 🔭 I’m currently working on **Security and Analysis Software** 
+  <img  height="200" src="/assets/fut.jpg"  />
+  
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V1OGh0M2JzcjlkaTY1ZmxudHJzZ2F5YjM4bjZlaXVueXAxcjc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif"  />
+  
+</div>
 
-- 👯 Willing to collaborate on **Any projects based on language listed**
-
-- 💬 Ask me about **C++, PHP and else in my reach.**
-
-- 🎢 Hear me out **Regex can be fun .**
-
-- 🗑️ Have more **Deleted Projects** than the one that succeed.
-
+<pre>
+<b><font color="#2ea44f">picaso@terminal:~#</font> cat about_me.md</b>
+──────────────────────────────────────────────────────────
+■ <b>Current Focus:</b> Security and Analysis Software 
+■ <b>Collaborate:</b>   Any projects based on language listed
+■ <b>Ask Me About:</b>  C++, PHP and else in my reach.
+■ <b>Hear Me Out:</b>   Regex can be fun.
+■ <b>System Status:</b> Have more Deleted Projects than the ones that succeed.
+──────────────────────────────────────────────────────────
+</pre>
 
 ![Isometric Calendar](metrics.plugin.isocalendar.svg)
 
