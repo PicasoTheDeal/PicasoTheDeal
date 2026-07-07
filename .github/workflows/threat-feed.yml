@@ -2,8 +2,8 @@ name: Live Cyber Threat Matrix
 
 on:
   schedule:
-    - cron: '0 * * * *' # Runs automatically every hour on the hour
-  workflow_dispatch: # Allows you to run it manually
+    - cron: '0 * * * *' 
+  workflow_dispatch:
 
 jobs:
   update-readme:
