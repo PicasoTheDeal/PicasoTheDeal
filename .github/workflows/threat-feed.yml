@@ -37,7 +37,7 @@ jobs:
 
           timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
           
-          matrix_output = "### 📡 Live Cyber Threat Intelligence Matrix\n"
+          matrix_output = "### Live Cyber Threat Intelligence Matrix\n"
           matrix_output += f"> **Last Updated:** `{timestamp}` | *Live telemetry pipeline streaming global node active attacks.*\n\n"
           matrix_output += "```text\n"
           matrix_output += "┌───────────────────┬────────────┬─────────────────────────────┐\n"
