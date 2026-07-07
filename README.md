@@ -24,6 +24,22 @@
 </pre>
 
 <!-- START_THREAT_DATA -->
+### 📡 Live Cyber Threat Intelligence Matrix
+> **Last Updated:** `2026-07-07 10:25 UTC` | *Live telemetry pipeline streaming global node active attacks.*
+
+```text
+┌───────────────────┬────────────┬─────────────────────────────┐
+│ TARGET NODE IP    │ STATUS     │ IDENTIFIED VULNERABILITY    │
+├───────────────────┼────────────┼─────────────────────────────┤
+│ 162.243.103.246   │ ATTACKING  │ DIGITALOCEAN-ASN            │
+│ 50.16.16.211      │ ATTACKING  │ AMAZON-AES                  │
+│ 34.204.119.63     │ ATTACKING  │ AMAZON-AES                  │
+│ 178.62.3.223      │ ATTACKING  │ DIGITALOCEAN-ASN - Digita   │
+│ 27.133.154.218    │ ATTACKING  │ SAKURA-B SAKURA Internet    │
+└───────────────────┴────────────┴─────────────────────────────┘
+```
+![Live Traffic Flow](https://github-readme-activity-graph.vercel.app/graph?username=PicasoThedeal&theme=react-dark&area=true&custom_title=System%20Firewall%20Throughput)
+
 <!-- END_THREAT_DATA -->
 
 ![Isometric Calendar](metrics.plugin.isocalendar.svg)
