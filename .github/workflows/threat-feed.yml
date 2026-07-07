@@ -2,8 +2,8 @@ name: Generate Live Cyber Threat Matrix
 
 on:
   schedule:
-    - cron: '0 * * * *'
-  workflow_dispatch:
+    - cron: '0 * * * *' # Runs automatically every hour on the hour
+  workflow_dispatch: # Allows you to run it manually
 
 jobs:
   update-readme:
@@ -27,11 +27,9 @@ jobs:
           from datetime import datetime
 
           try:
-              # Pull active threat intelligence data
               with urllib.request.urlopen("https://feodotracker.abuse.ch/downloads/ipblocklist.json") as url:
                   data = json.loads(url.read().decode())[:6]
           except Exception:
-              # Backup fallback data engine if remote infrastructure times out
               data = [
                   {"ip_address": "185.220.101.5", "status": "online", "as_name": "Tor Exit Node Tracking"}, 
                   {"ip_address": "45.145.117.82", "status": "active", "as_name": "Mass Scanner Pool"}
@@ -39,7 +37,7 @@ jobs:
 
           timestamp = datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')
           
-          matrix_output = f"### 📡 Live Cyber Threat Intelligence Matrix\n"
+          matrix_output = "### 📡 Live Cyber Threat Intelligence Matrix\n"
           matrix_output += f"> **Last Updated:** `{timestamp}` | *Live telemetry pipeline streaming global node active attacks.*\n\n"
           matrix_output += "```text\n"
           matrix_output += "┌───────────────────┬────────────┬─────────────────────────────┐\n"
@@ -59,12 +57,11 @@ jobs:
           with open("README.md", "r", encoding="utf-8") as f:
               readme = f.read()
 
-          updated_readme = re.sub(
-              r".*?",
-              f"\n{matrix_output}\n",
-              readme,
-              flags=re.DOTALL
-          )
+          # Bulletproof replacement that works regardless of line break spacing variations
+          pattern = r"<!--\s*START_THREAT_DATA\s*-->[\s\S]*?<!--\s*END_THREAT_DATA\s*-->"
+          replacement = f"<!-- START_THREAT_DATA -->\n{matrix_output}\n<!-- END_THREAT_DATA -->"
+          
+          updated_readme = re.sub(pattern, replacement, readme)
 
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(updated_readme)
