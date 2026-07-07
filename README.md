@@ -1,8 +1,12 @@
 <h3 align="center">Inspect My work :shipit:</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kirubel&label=Profile%20views&color=0e75b6&style=flat" alt="kirubel" /> </p>
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=kirubel&label=Profile%20views&color=0e75b6&style=flat" alt="kirubel" /> 
+  <a href="https://isitreallyme.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?logo=devdotto&logoColor=white" alt="Portfolio"></a>
+  <a href="https://engineering-logs.pages.dev/"><img src="https://img.shields.io/badge/Blog-0A0A0A?logo=devdotto&logoColor=white" alt="Blog"></a>
+</p>
 
-<div>
+<div align="center">
   
   <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V1OGh0M2JzcjlkaTY1ZmxudHJzZ2F5YjM4bjZlaXVueXAxcjc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif"  />
   
@@ -11,13 +15,16 @@
 <pre>
 <b><font color="#2ea44f">picaso@terminal:~#</font> cat about_me.md</b>
 ──────────────────────────────────────────────────────────
-■ <b>Current Focus:</b> Security and Analysis Software 
-■ <b>Collaborate:</b>   Any projects based on language listed
-■ <b>Ask Me About:</b>  C++, PHP and else in my reach.
-■ <b>Hear Me Out:</b>   Regex can be fun.
-■ <b>System Status:</b> Have more Deleted Projects than the ones that succeed.
+> <b>Current Focus:</b> Security and Analysis Software 
+> <b>Collaborate:</b>   Any projects based on language listed
+> <b>Ask Me About:</b>  C++, PHP and else in my reach.
+> <b>Hear Me Out:</b>   Regex can be fun.
+> <b>System Status:</b> Have more Deleted Projects than the ones that succeed.
 ──────────────────────────────────────────────────────────
 </pre>
+
+<!-- START_THREAT_DATA -->
+<!-- END_THREAT_DATA -->
 
 ![Isometric Calendar](metrics.plugin.isocalendar.svg)
 
