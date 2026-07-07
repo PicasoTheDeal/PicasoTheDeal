@@ -1,4 +1,4 @@
-name: Generate Live Cyber Threat Matrix
+name: Live Cyber Threat Matrix
 
 on:
   schedule:
