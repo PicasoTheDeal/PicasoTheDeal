@@ -17,7 +17,7 @@
 ──────────────────────────────────────────────────────────
 > <b>Current Focus:</b> Security and Analysis Software 
 > <b>Collaborate:</b>   Any projects based on language listed
-> <b>Ask Me About:</b>  C++, PHP and else in my reach.
+> <b>Ask Me About:</b>  C++, C#, assembly and else in my reach.
 > <b>Hear Me Out:</b>   Regex can be fun.
 > <b>System Status:</b> Have more Deleted Projects than the ones that succeed.
 ──────────────────────────────────────────────────────────
