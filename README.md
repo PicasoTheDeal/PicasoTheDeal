@@ -25,7 +25,7 @@
 
 <!-- START_THREAT_DATA -->
 ### Live Cyber Threat Intelligence Matrix
-> **Last Updated:** `2026-07-12 08:08 UTC` | *Live telemetry pipeline streaming global node active attacks.*
+> **Last Updated:** `2026-07-12 10:22 UTC` | *Live telemetry pipeline streaming global node active attacks.*
 
 ```text
 ┌───────────────────┬────────────┬─────────────────────────────┐
