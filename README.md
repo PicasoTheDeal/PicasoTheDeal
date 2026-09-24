@@ -59,7 +59,7 @@ namespace Tetstack {
     }
 
     inline constexpr const char* motto =
-        "break things on purpose, so the bad guys can't.";
+        "break things on purpose, so the bad guys can't.JK";
 
 }
 
