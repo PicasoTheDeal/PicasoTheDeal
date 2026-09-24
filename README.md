@@ -8,25 +8,74 @@
 
 <div align="center">
   
-  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3V1OGh0M2JzcjlkaTY1ZmxudHJzZ2F5YjM4bjZlaXVueXAxcjc5bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/llKJGxQ1ESmac/giphy.gif"  />
-  
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjVsb3czancycnZuNmVsbTM5ZXlkMGY0eXpibm16YzkwaDNrM2hkOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KphDFbotQHzU5LBnBu/giphy.gif"/>
+  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtlbGZzazR3a2l2eHl1dnZwYWhrOTV5cXhnbDY1amp4OGljNGp4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ieBWQkIVEELhbizGAp/giphy.gif"/>
+  <img height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnN4aHZobTdhcjN5eW9kcHVuamRxa3FmN3V1aDNqeGh0bGlleGRwcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zLrMT1J1RuJ9u/giphy.gif"/>
+
 </div>
 
-<pre>
-<b><font color="#2ea44f">picaso@terminal:~#</font> cat about_me.md</b>
-──────────────────────────────────────────────────────────
-> <b>Current Focus:</b> Security and Analysis Software 
-> <b>Collaborate:</b>   Any projects based on language listed
-> <b>Ask Me About:</b>  C++, C#, assembly and else in my reach.
-> <b>Hear Me Out:</b>   Regex can be fun.
-> <b>System Status:</b> Have more Deleted Projects than the ones that succeed.
-──────────────────────────────────────────────────────────
-</pre>
+```cpp
+#include <human>
+#include <security>
+#include <low_level>
+#include <curiosity>
+#include <dumb_decisions>
 
-![Isometric Calendar](metrics.plugin.isocalendar.svg)
+namespace Tetstack {
 
+    struct Operator {
+        const char*  alias     = "Tetstack";
+        const char*  role      = "Security Researcher / Systems Engineer";
+        const char*  status    = "more deleted repos than shipped ones. it's fine.";
+    };
+
+    enum class Focus {
+        OffensiveSecurity,
+        BinaryInternals,
+        ReverseEngineering
+    };
+
+    using Stack = std::tuple<
+        C, Cpp, CSharp, Assembly,
+        Go, Rust, Python, TypeScript, Bash, and more
+    >;
+
+    class Projects {
+    public:
+        void TheDoom();
+        void KiOS();
+        void KASCVE();
+    };
+
+    constexpr auto topics() {
+        return std::array{
+            "buffer overflows",
+            "CVE archaeology",
+            "ELF internals",
+            "why your binary segfaults at 3 AM",
+            "regex (yes, it's fun. fight me)",
+            "anything in my reach"
+        };
+    }
+
+    inline constexpr const char* motto =
+        "break things on purpose, so the bad guys can't.";
+
+}
+
+int main() {
+    while (true) {
+        learn();
+        build();
+        break_something();
+        fix_it_properly();
+    }
+    return 0;
+}
+```
 ###
 
+![Isometric Calendar](metrics.plugin.isocalendar.svg)
 <img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=PicasoTheDealer&theme=hacker" alt = "PicasoTheDealer"/>
 
 ###
