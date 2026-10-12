@@ -1,7 +1,7 @@
 <h3 align="center">Inspect My work :shipit:</h3>
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=PicasoTheDeal&label=Profile%20views&color=0e75b6&style=flat" alt="PicasoTheDeal" /> 
+  <img src="https://gitviews.com/user/PicasoTheDeal.svg?style=for-the-badge&label=Observed&color=white&base=1000"/>
   <a href="https://isitreallyme.pages.dev/"><img src="https://img.shields.io/badge/Portfolio-0A0A0A?logo=devdotto&logoColor=white" alt="Portfolio"></a>
   <a href="https://engineering-logs.pages.dev/"><img src="https://img.shields.io/badge/Blog-0A0A0A?logo=devdotto&logoColor=white" alt="Blog"></a>
 </p>
