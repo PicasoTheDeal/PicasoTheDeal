@@ -75,11 +75,6 @@ int main() {
 ```
 ###
 
-![Isometric Calendar](metrics.plugin.isocalendar.svg)
-<img align="center" src="https://codewars-stats-ignacio-cuadra.vercel.app/?username=PicasoTheDealer&theme=hacker" alt = "PicasoTheDealer"/>
-
-###
-
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
